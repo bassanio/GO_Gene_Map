@@ -21,3 +21,4 @@ Using simple custom perl script parse and create Table with all the unique genes
 perl Make_GO_Table.pl
 
 ```
+Result file :Table_Gene_GO_Information_org.Hs.eg.db.txt
